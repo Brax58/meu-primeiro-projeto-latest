@@ -1,0 +1,13 @@
+:host-context(.theme-dark){
+p{
+    background: black;
+    color: white;
+}
+}
+
+:host-context(.theme-red){
+    p{
+        background: red;
+        color: white;
+    }
+    }
